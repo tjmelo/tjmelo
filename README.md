@@ -1,4 +1,4 @@
-![Thiago Melo Web Developer](https://github.com/tjmelo/tjmelo/blob/main/images/tmwd.svg)
+<img src="https://github.com/tjmelo/tjmelo/blob/main/images/tmwd.svg" width="150" />
 
 ### Hi Guys! ⚡
 
