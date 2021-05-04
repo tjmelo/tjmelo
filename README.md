@@ -1,4 +1,4 @@
-<!-- ![Thiago Melo Web Developer]((https://octodex.github.com/images/yaktocat.png)) -->
+![Thiago Melo Web Developer](https://github.com/tjmelo/tjmelo/blob/main/images/tmwd.svg)
 
 ### Hi Guys! ⚡
 
