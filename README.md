@@ -15,8 +15,4 @@ I enjoy new challenges and new code experiences.
 
 Here, you find some little projects and useful codes snippets.
 
-[![Tjmelo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjmelo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![jmelo's github stats](https://github-readme-stats.vercel.app/api?username=tjmelo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
 I hope it will be useful to you.
