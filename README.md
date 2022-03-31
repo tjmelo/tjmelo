@@ -4,31 +4,31 @@
 
 ### Hi Guys! 🔥
 
-My name is Thiago Melo. 
-I'm a Web Developer Front End and Designer de Interfaces web
+> My name is Thiago Melo. <br />
+> I'm a Web Developer Front End and Designer de Interfaces web
 
 **My skills:**
 ---
 
-- Pillars Front End Coding
+#### Pillars Front End Coding
 
 ![HTML](https://img.shields.io/badge/HTML-gray?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/CSS-gray?style=flat&logo=CSS3)
 
-- Package Deploy
+#### Package Deploy
 
 ![Yarn](https://img.shields.io/badge/Yarn-gray?style=flat&logo=Yarn)
 ![npm](https://img.shields.io/badge/npm-gray?style=flat&logo=npm)
 ![Webpack](https://img.shields.io/badge/Webpack-gray?style=flat&logo=Webpack)
 ![Node.js](https://img.shields.io/badge/Node.js-gray?style=flat&logo=Node.js)
 
-- Frameworks
+#### Frameworks
 
 ![Boostrap](https://img.shields.io/badge/Bootstrap-gray?style=flat&logo=Bootstrap)
 ![Angular](https://img.shields.io/badge/Angular-gray?style=flat&logo=Angular)
 
-- Libs
+#### Libs
 
 ![React](https://img.shields.io/badge/React-gray?style=flat&logo=React)
 ![React Router](https://img.shields.io/badge/ReactRouter-gray?style=flat&logo=React-Router)
@@ -36,19 +36,19 @@ I'm a Web Developer Front End and Designer de Interfaces web
 ![React Redux Saga](https://img.shields.io/badge/ReduxSaga-gray?style=flat&logo=Redux-Saga)
 ![Next.js](https://img.shields.io/badge/Next.js-gray?style=flat&logo=Next.js)
 
-- Tests
+#### Tests
 
 ![Jest](https://img.shields.io/badge/Jest-gray?style=flat&logo=Jest)
 ![Cypress](https://img.shields.io/badge/Cypress-gray?style=flat&logo=Cypress)
 
-- Quality
+#### Quality
 
 ![CI/CD](https://img.shields.io/badge/CircleCI-gray?style=flat&logo=CircleCI)
 ![esLint](https://img.shields.io/badge/ESLint-gray?style=flat&logo=ESLint)
 ![SytleLint](https://img.shields.io/badge/stylelint-gray?style=flat&logo=stylelint)
 ![Github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub)
 
-- Powerfull
+#### Powerfull
 
 ![SASS](https://img.shields.io/badge/Sass-gray?style=flat&logo=Sass)
 ![Stylus](https://img.shields.io/badge/Stylus-gray?style=flat&logo=Stylus)
