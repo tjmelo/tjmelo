@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/tjmelo)
-
 <img src="https://github.com/tjmelo/tjmelo/blob/main/images/tmwd.svg" width="150" />
 
 ### Hi Guys! 🔥
