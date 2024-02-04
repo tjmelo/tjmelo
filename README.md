@@ -25,6 +25,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-gray?style=flat&logo=Webpack)
 ![Node.js](https://img.shields.io/badge/Node.js-gray?style=flat&logo=Node.js)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=flat&logo=Docker)
+![Netlify](https://img.shields.io/badge/Netlify-gray?style=flat&logo=Netlify)
 ---
 
 #### Frameworks
