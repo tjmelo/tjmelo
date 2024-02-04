@@ -1,13 +1,12 @@
-<img src="https://github.com/tjmelo/tjmelo/blob/main/images/tmwd.svg" width="150" />
+<img src="https://github.com/tjmelo/tjmelo/blob/main/images/tmwd.svg" width="150" align="left"/>
 
 ### Hi Guys! 🔥
 
 > My name is **Thiago Melo**. <br />
 > I'm a Web Developer **Front End** and Designer de Interfaces web
 
-I enjoy new challenges and new code experiences.
 
-Here, you find some little projects and useful code snippets.
+<br >
 
 **My skills:**
 ---
@@ -64,5 +63,9 @@ Here, you find some little projects and useful code snippets.
 ![Less](https://img.shields.io/badge/Less-gray?style=flat&logo=Less)
 ![Typescript](https://img.shields.io/badge/TypeScript-gray?style=flat&logo=TypeScript)
 ---
+
+I enjoy new challenges and new code experiences.
+
+Here, you find some little projects and useful code snippets.
 
 I hope it will be useful to you. :sunglasses:
