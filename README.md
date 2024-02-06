@@ -8,6 +8,8 @@
 
 <br >
 
+_"He who is faithful in little is faithful in much"_
+
 **My skills:**
 ---
 
