@@ -1,4 +1,4 @@
-<img src="https://github.com/tjmelo/tjmelo/blob/main/images/tmwd.svg" width="150" align="left"/>
+<img src="./images/tmwd.svg" width="150" align="left"/>
 
 ### Hi Guys! 🔥
 
@@ -33,6 +33,7 @@ _"He who is faithful in little is faithful in much"_
 #### Frameworks
 
 ![Boostrap](https://img.shields.io/badge/Bootstrap-gray?style=flat&logo=Bootstrap)
+![MUI](https://img.shields.io/badge/MaterialUI-gray?style=flat&logo=MUI)
 ![Angular](https://img.shields.io/badge/Angular-gray?style=flat&logo=Angular)
 ---
 
@@ -43,6 +44,8 @@ _"He who is faithful in little is faithful in much"_
 ![React Redux](https://img.shields.io/badge/Redux-gray?style=flat&logo=Redux)
 ![React Redux Saga](https://img.shields.io/badge/ReduxSaga-gray?style=flat&logo=Redux-Saga)
 ![Next.js](https://img.shields.io/badge/Next.js-gray?style=flat&logo=Next.js)
+![React Query](https://img.shields.io/badge/ReactQuery-gray?style=flat&logo=ReactQuery)
+![React Hook Form](https://img.shields.io/badge/ReactHookForm-gray?style=flat&logo=ReactHookForm)
 ---
 
 #### Tests
@@ -57,6 +60,7 @@ _"He who is faithful in little is faithful in much"_
 ![esLint](https://img.shields.io/badge/ESLint-gray?style=flat&logo=ESLint)
 ![SytleLint](https://img.shields.io/badge/stylelint-gray?style=flat&logo=stylelint)
 ![Github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub)
+![GitLab](https://img.shields.io/badge/GitLab-gray?style=flat&logo=GitLab)
 ---
 
 #### Powerfull
@@ -64,6 +68,7 @@ _"He who is faithful in little is faithful in much"_
 ![SASS](https://img.shields.io/badge/Sass-gray?style=flat&logo=Sass)
 ![Stylus](https://img.shields.io/badge/Stylus-gray?style=flat&logo=Stylus)
 ![Less](https://img.shields.io/badge/Less-gray?style=flat&logo=Less)
+![Styled Component](https://img.shields.io/badge/StyledComponent-gray?style=flat&logo=CSS3)
 ![Typescript](https://img.shields.io/badge/TypeScript-gray?style=flat&logo=TypeScript)
 ---
 
