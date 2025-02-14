@@ -25,6 +25,7 @@ _"He who is faithful in little is faithful in much"_
 ![Yarn](https://img.shields.io/badge/Yarn-gray?style=flat&logo=Yarn)
 ![npm](https://img.shields.io/badge/npm-gray?style=flat&logo=npm)
 ![Webpack](https://img.shields.io/badge/Webpack-gray?style=flat&logo=Webpack)
+![Vite](https://img.shields.io/badge/Vite-gray?style=flat&logo=Vite)
 ![Node.js](https://img.shields.io/badge/Node.js-gray?style=flat&logo=Node.js)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=flat&logo=Docker)
 ![Netlify](https://img.shields.io/badge/Netlify-gray?style=flat&logo=Netlify)
@@ -46,11 +47,13 @@ _"He who is faithful in little is faithful in much"_
 ![Next.js](https://img.shields.io/badge/Next.js-gray?style=flat&logo=Next.js)
 ![React Query](https://img.shields.io/badge/ReactQuery-gray?style=flat&logo=ReactQuery)
 ![React Hook Form](https://img.shields.io/badge/ReactHookForm-gray?style=flat&logo=ReactHookForm)
+![Module Federation](https://img.shields.io/badge/ModuleFederation-gray?style=flat&logo=Webpack)
 ---
 
 #### Tests
 
 ![Jest](https://img.shields.io/badge/Jest-gray?style=flat&logo=Jest)
+![Testing Library](https://img.shields.io/badge/TestingLibrary-gray?style=flat&logo=TestingLibrary)
 ![Cypress](https://img.shields.io/badge/Cypress-gray?style=flat&logo=Cypress)
 ---
 
@@ -70,6 +73,8 @@ _"He who is faithful in little is faithful in much"_
 ![Less](https://img.shields.io/badge/Less-gray?style=flat&logo=Less)
 ![Styled Component](https://img.shields.io/badge/StyledComponent-gray?style=flat&logo=CSS3)
 ![Typescript](https://img.shields.io/badge/TypeScript-gray?style=flat&logo=TypeScript)
+![MUI](https://img.shields.io/badge/MUI-gray?style=flat&logo=MUI)
+
 ---
 
 I enjoy new challenges and new code experiences.
